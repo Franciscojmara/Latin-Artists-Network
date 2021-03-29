@@ -3,4 +3,4 @@ Network analysis of top latin artists using weekly ranking charts provided by Bi
 
 Still on process 👷. 
 
-This work is done thanks to help of (user)'s billboard.py API
+This work is being done thanks to help of (user)'s billboard.py API
